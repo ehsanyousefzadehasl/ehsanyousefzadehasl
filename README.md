@@ -6,3 +6,4 @@ particularly GPUs, parallel computing systems, and energy-efficient designs and 
 - 🌱 I’m currently learning more about computer architecture, machine learning, deep learning, and other computer science concepts to fill my knowledge gaps, and also mathematics, especially statistics and probability.
 - 👯 I’m looking to collaborate on simulators for processors
 - 📫 How to reach me: ehsanyusefzadehasl@gmail.com
+- 💼  My Resume: https://ehsanyousefzadehasl.github.io/ehsanyousefzadehasl/
