@@ -3,7 +3,7 @@ My name is Ehsan Yousefzadeh and I hold a master's degree in Computer Architectu
 - 🔭 I’m currently working on Resource-Aware Data Science.
 - 🌱 I’m currently learning more about Deep Learning (DL) and Computer Architecure. 
 - 👯 I’m looking for collaboration on open-source processors simulators and teaching projects.
-- 📫 How to reach me: ehsanyusefzadehasl@gmail.com
+- 📫 How to reach me: ehsanyusefzadehasl@gmail.com <br/>
 --- Check some of my academic activities.
 - 💼 My Resume: https://ehsanyousefzadehasl.github.io/ehsanyousefzadehasl/
 - 🚧 My Medium: https://ehsanyousefzadehasl.medium.com/
