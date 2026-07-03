@@ -5,7 +5,7 @@ permalink: /projects/
 description: Selected research artifacts, software, datasets, and educational projects.
 nav: true
 nav_order: 3
-display_categories: [research]
+display_categories: [research, teaching]
 horizontal: false
 ---
 
