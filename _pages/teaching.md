@@ -9,7 +9,7 @@ nav_order: 4
 
 ## Teaching Topics
 
-- System architecture and optimization for deep learning training and collocation
+- Computer systems architecture and optimizations for deep learning training and collocation
 - GPU, CPU, and accelerator architectures and trade-offs
 - CUDA programming
 
