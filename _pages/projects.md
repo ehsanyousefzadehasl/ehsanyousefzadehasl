@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: projects
 permalink: /projects/
 description: Selected research artifacts, software tools, datasets, and educational resources.
 nav: true

@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: about
 permalink: /
 subtitle: Postdoctoral Researcher, IT University of Copenhagen
 
