@@ -10,4 +10,4 @@ category: research
 GPUMemNet is an artifact repository for deep learning-based GPU memory estimation for training workloads. It includes dataset generation, cleaning, analysis, and modeling components used to study training-aware GPU resource management.
 
 **Links:**  
-[GitHub](https://github.com/itu-rad/GPUMemNet) · [Dataset](https://huggingface.co/datasets/ehyo/GPU-Resources-Estimation-for-Deep-Learning-Training-Tasks)
+[GitHub](https://github.com/itu-rad/GPUMemNet)
