@@ -1,8 +1,8 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
-description: Selected research artifacts, software, datasets, and educational projects.
+description: Selected research artifacts, software tools, datasets, and educational resources.
 nav: true
 nav_order: 3
 display_categories: [research, teaching]
