@@ -120,8 +120,12 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+# -----------------------------------------------------------------------------
+# Blog
+# -----------------------------------------------------------------------------
+
+blog_name: notes
+blog_description: thoughts on computer systems, GPU resource management, efficient AI infrastructure, and research artifacts
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -159,15 +163,10 @@ disqus_shortname: al-folio # put your disqus shortname
 # Optional: Set default categories and tags for posts from each source.
 external_sources:
   - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
+    rss_url: https://medium.com/feed/@ehsanyousefzadehasl
     categories: [external-posts]
     tags: [medium]
-  - name: Google Blog
-    posts:
-      - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
-        published_date: 2024-05-14
-    categories: [external-posts]
-    tags: [google]
+
 
 # -----------------------------------------------------------------------------
 # Newsletter
