@@ -28,7 +28,7 @@ jobs:
 
       - name: Build with Docker Compose
         run: |
-          docker compose run --rm jekyll bundle exec jekyll build --baseurl "/ehsanyousefzadehasl"
+          docker compose run --rm jekyll sh -lc 'bundle install && bundle exec jekyll build --baseurl "/ehsanyousefzadehasl"'
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
