@@ -52,6 +52,8 @@ nav_order: 6
 }
 </style>
 
+I contribute to the research community and my university through peer review, program committee service, and institutional governance. My service activities primarily relate to computer systems, data management, efficient computing, and academic community building.
+
 <div class="service-year">2026</div>
 
 <div class="service-entry">
