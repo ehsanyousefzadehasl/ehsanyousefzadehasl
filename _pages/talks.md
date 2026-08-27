@@ -178,4 +178,3 @@ nav_order: 7
   <span class="talk-tag">poster</span>
   <a class="btn btn-sm z-depth-0" href="{{ '/assets/pdf/talks/GPU-efficiency-through-intelligent-collocation-Ehsan-Yousefzadeh-Asl-Miandoab.pdf' | relative_url }}" target="_blank">Poster</a>
 </div>
-
