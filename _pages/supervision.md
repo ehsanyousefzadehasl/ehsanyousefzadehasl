@@ -7,6 +7,8 @@ nav: true
 nav_order: 5
 ---
 
+I enjoy supervising students on research and engineering projects across computer systems, machine learning, and applied computing. My supervision has included topics such as GPU resource management, ML systems, deep learning applications, data processing, and embedded monitoring, with an emphasis on connecting research questions to practical implementation and experimental evaluation.
+
 ## Master's Thesis Supervision
 
 | Student | Project | Role | Other supervisor(s) | Term |
