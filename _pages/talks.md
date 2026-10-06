@@ -55,6 +55,14 @@ nav_order: 7
 <div class="talk-year">2026</div>
 
 <div class="talk-entry">
+  <strong>AEGIS: Runtime-Guided GPU Task Collocator for Energy-Efficient AI Training</strong><br>
+  <span class="text-muted">Poster, D3A 4.0, Nyborg, Denmark, October 8-9</span><br>
+  <span class="talk-tag">poster</span>
+  <a class="btn btn-sm z-depth-0" href="{{ '/assets/pdf/talks/2026_d3a-aegis-poster.pdf' | relative_url }}" target="_blank">Poster</a>
+</div>
+
+
+<div class="talk-entry">
   <strong>ML for Systems, Systems for ML</strong><br>
   <span class="text-muted">Lecture, ITU IoT course, Copenhagen, Denmark, April 9</span><br>
   <span class="talk-tag">lecture</span>
