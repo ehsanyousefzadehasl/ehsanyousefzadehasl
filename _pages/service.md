@@ -57,6 +57,12 @@ I contribute to the research community and my university through peer review, pr
 <div class="service-year">2026</div>
 
 <div class="service-entry">
+  <strong>Reviewer</strong><br>
+  <span class="text-muted">Journal of Parallel and Distributed Computing.</span><br>
+  <span class="service-tag">journal reviewing</span>
+</div>
+
+<div class="service-entry">
   <strong>Program Committee Member</strong><br>
   <span class="text-muted">InSyDe @ EuroSys.</span><br>
   <span class="service-tag">program committee</span>
