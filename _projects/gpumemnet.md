@@ -3,7 +3,7 @@ layout: page
 title: GPUMemNet
 description: GPU memory estimation artifacts for deep learning training workloads
 img: assets/img/publication_preview/gpumemnet_icon.png
-importance: 1
+importance: 2
 category: research
 ---
 

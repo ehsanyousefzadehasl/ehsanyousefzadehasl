@@ -3,7 +3,7 @@ layout: page
 title: Parallel Computing with GPGPUs
 description: Educational CUDA/GPGPU material for learning GPU programming and parallel computing
 img: assets/img/project_preview/parallel-computing-gpgpus.png
-importance: 4
+importance: 5
 category: teaching
 ---
 

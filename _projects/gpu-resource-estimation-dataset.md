@@ -3,7 +3,7 @@ layout: page
 title: GPU Resource Estimation Dataset
 description: Public dataset for GPU memory and utilization estimation of deep learning training workloads
 img: assets/img/publication_preview/gpu_resource_data_icon.png
-importance: 2
+importance: 3
 category: research
 ---
 
