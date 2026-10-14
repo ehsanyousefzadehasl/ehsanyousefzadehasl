@@ -27,8 +27,14 @@ latest_posts:
   limit: 5
 ---
 
-I am a postdoctoral researcher in the [Resource-Aware Data Systems (RAD) Group](https://rad.itu.dk/) at the IT University of Copenhagen. I am a computer systems researcher working at the intersection of efficient AI infrastructure, GPU resource management, and data-intensive computing.
+I am a computer systems researcher interested in **efficient computing**, **AI infrastructure**, **resource management**, and **system performance**. My research focuses on **understanding**, **designing**, and **improving** modern computing systems, with an emphasis on **efficiency**, **performance**, and **dependability**.
 
-My recent research develops measurement-driven methods, predictive models, and runtime systems that make modern computing platforms more efficient and dependable. I am particularly interested in resource-aware and GPU-efficient systems.
+My recent work focuses on **GPU resource management and efficient AI infrastructure**, where I develop **measurement-driven methods**, **predictive models**, and **runtime systems** to improve resource utilization and system efficiency.
 
-**I am currently exploring faculty, postdoctoral, research scientist, and industry R&D opportunities starting in 2027**, particularly in systems, AI infrastructure, and efficient computing.
+I am currently a postdoctoral researcher in the [⁠Resource-Aware Data Systems (RAD)](https://rad.itu.dk/) Group at the ⁠IT University of Copenhagen.
+
+---
+
+I am currently exploring faculty, postdoctoral, research scientist, and industry R&D opportunities starting in 2027, where my background in computer systems and efficient computing can contribute to new research and engineering challenges.
+
+---
