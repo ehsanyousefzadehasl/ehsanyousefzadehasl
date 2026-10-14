@@ -87,11 +87,18 @@ I contribute to the research community and my university through peer review, pr
 <div class="service-entry">
   <strong>Ph.D. Student Member</strong><br>
   <span class="text-muted">Ph.D. Council, IT University of Copenhagen.</span><br>
+  <span class="service-description">
+    - Represented Ph.D. students in university governance, contributing to discussions on Ph.D. education, programme quality, and academic policies.
+  </span><br>
   <span class="service-tag">governance</span>
 </div>
+
 
 <div class="service-entry">
   <strong>Ph.D. Student Member</strong><br>
   <span class="text-muted">Ph.D. Executive Committee, IT University of Copenhagen.</span><br>
+  <span class="service-description">
+    - Served on the committee responsible for delegated Ph.D. programme matters, including study plans, academic requirements, and administrative decisions.
+  </span><br>
   <span class="service-tag">governance</span>
 </div>
