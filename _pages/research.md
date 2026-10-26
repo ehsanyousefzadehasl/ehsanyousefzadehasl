@@ -13,6 +13,12 @@ My research lies at the intersection of computer systems, GPU resource managemen
 
 This page tells the longer story behind that research: the questions that motivated my work, how one project led to the next, and the research principles I developed along the way.
 
+Here, you can see the whole picture of research journey before deep diving into the text:
+
+<img src="../assets/img/my_research_journey.png"
+     alt="My Research Journey"
+     style="width: 100%; height: auto;">
+
 [Download Research Bio (PDF)](../assets/pdf/research_bio_Ehsan.pdf)
 
 
