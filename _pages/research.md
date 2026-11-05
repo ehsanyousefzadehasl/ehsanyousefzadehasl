@@ -15,7 +15,7 @@ This page tells the longer story behind that research: the questions that motiva
 
 Here, you can see the whole picture of research journey before deep diving into the text:
 
-<img src="../assets/img/my_research_journey.png"
+<img src="../assets/img/my_research_journey.svg"
      alt="My Research Journey"
      style="width: 100%; height: auto;">
 
