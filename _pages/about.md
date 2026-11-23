@@ -6,7 +6,7 @@ subtitle: Postdoctoral Researcher, IT University of Copenhagen
 
 profile:
   align: right
-  image: ehsan_profile.jpg
+  image: ehsan_profile.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Office: 4E04</p>
@@ -35,6 +35,6 @@ I am currently a postdoctoral researcher in the [⁠Resource-Aware Data Systems 
 
 ---
 
-I am currently exploring faculty, postdoctoral, research scientist, and industry R&D opportunities starting in 2027, where my background in computer systems and efficient computing can contribute to new research and engineering challenges.
+I am seeking engineering opportunities in AI infrastructure, high-performance computing (HPC), and platform engineering. I aim to apply my research and software engineering experience in GPU systems, resource management, and performance optimization to build scalable, reliable, and efficient computing infrastructure.
 
 ---

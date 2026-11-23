@@ -58,6 +58,19 @@ I contribute to the research community and my university through peer review, pr
 
 <div class="service-entry">
   <strong>Reviewer</strong><br>
+  <span class="text-muted">Journal of Systems Architecture</span><br>
+  <span class="service-tag">journal reviewing</span>
+</div>
+
+<div class="service-entry">
+  <strong>Reviewer</strong><br>
+  <span class="text-muted">ACM Transactions on Architecture and Code Optimization</span><br>
+  <span class="service-tag">journal reviewing</span>
+</div>
+
+
+<div class="service-entry">
+  <strong>Reviewer</strong><br>
   <span class="text-muted">SoftwareX.</span><br>
   <span class="service-tag">journal reviewing</span>
 </div>
